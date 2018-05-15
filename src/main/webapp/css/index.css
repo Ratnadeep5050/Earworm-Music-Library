@@ -1,0 +1,101 @@
+body{
+	background-image: url("intro.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.welcomeTitle{
+	position: absolute;
+	color: white;
+	font-family: "Comic Sans MS";
+	text-align: center;
+	margin-left: 340px;
+	margin-top: 100px;
+	padding: 10px;
+}
+
+.welcomeSearch{
+	position: absolute;
+	margin-left: 300px;
+	margin-top: 450px;
+}
+
+#searchBar, #searchButton{
+	padding: 5px;
+	color: grey;
+	border-radius: 7px;
+}
+
+.signInSignUp{
+	position: absolute;
+	margin-left: 1160px;
+}
+
+#signIn{
+	padding: 5px;
+    margin: 5px;
+    background-color: black;
+    color: white;
+}
+
+#createAccount{
+	padding: 5px;
+    background-color: black;
+    color: white;
+}
+
+.signInFormDiv{
+	position: absolute;
+    background-color: black;
+}
+
+#signInForm{
+	position: absolute;
+}
+
+#email{
+	position: absolute;
+    margin: 3px;
+    border-radius: 7px;
+}
+
+#password{
+	position: absolute;
+    margin: 3px;
+    border-radius: 7px;
+}
+
+#signInSubmit{
+	position: absolute;
+    width: 409px;
+    margin: 3px;
+    border-radius: 7px;
+}
+
+.signUpFormDiv{
+	position: absolute;
+    background-color: black;
+}
+
+#signUpForm{
+	position: absolute;
+}
+
+#Email{
+	position: absolute;
+    margin: 3px;
+    border-radius: 7px;
+}
+
+#Password{
+	position: absolute;
+    margin: 3px;
+    border-radius: 7px;
+}
+
+#signUpSubmit{
+	position: absolute;
+    width: 409px;
+    margin: 3px;
+    border-radius: 7px;
+}
