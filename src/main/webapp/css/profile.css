@@ -1,0 +1,179 @@
+body{
+	background-color: black;
+}
+
+.taskBar{
+	color: white;
+	background-color: maroon;
+	height: 35px;
+	margin-bottom: 0px;
+	font-family: "Impact";
+}
+
+#search{
+	position: absolute;
+	left: 50px;
+    bottom: 605px;
+    top: -8px;
+    font-size: 20px;
+}
+
+#taskBarSearch{
+	position: absolute;
+    left: 115px;
+    top: 12px;
+}
+
+#searchField{
+	left: 200px;
+    top: 15px;
+    height: 20px;
+    width: 600;
+}
+
+#searchButton{
+    left: 810px;
+    top: 15px;
+    border-radius: 5px;
+}
+
+#home{
+	background-color: rgb(70, 5, 0);
+	color: white;
+	position: absolute;
+    padding-left: 40px;
+    padding-right: 45px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    top: 10px;
+    left: 780px;
+}
+
+#notification{
+	background-color: rgb(70, 5, 0);
+	color: white;
+    position: absolute;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    top: 10px;
+    left: 906px;
+}
+
+#user{
+	background-color: rgb(70, 5, 0);
+	color: white;
+    position: absolute;
+    padding-left: 44px;
+    padding-right: 44px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    top: 10px;
+    left: 1036px;
+}
+
+#signOut{
+	background-color: rgb(70, 5, 0);
+	color: white;
+    position: absolute;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    top: 10px;
+    left: 1149px;
+}
+
+.coverAndProfilePic{
+	background-image: url("cover.jpg");
+    background-size: cover;
+	background-repeat: no-repeat;
+	position: absolute;
+	height: 205px;
+	width: 100%;
+}
+
+.profilePic{
+	border-radius: 50%;
+    width: 200px;
+    margin-top: 7px;
+    position: absolute;
+    height: 195px;
+}
+
+.userContentBar{
+	background-color: maroon;
+	height: 35px;
+	font-family: "Impact";
+	position: absolute;
+	top: 250px;
+	position: absolute;
+	padding-top: 5px;
+	width: 99%
+}
+
+#all{
+    background-color: rgb(70, 5, 0);
+    color: white;
+    position: absolute;
+    padding-left: 42px;
+    padding-right: 42px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    top: 4px;
+    left: 5px;
+}
+
+#tracks{
+    background-color: rgb(70, 5, 0);
+    color: white;
+    position: absolute;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    top: 4px;
+    left: 108px;
+}
+
+#albums{
+   background-color: rgb(70, 5, 0);
+    color: white;
+    position: absolute;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    top: 4px;
+    left: 212px;
+}
+
+.userContents{
+    position: absolute;
+    left: 10px;
+    top: 335px;
+    background-color: rgb(70, 5, 0);
+    color: white;
+    padding-bottom: 0px;
+    padding-right: 42px;
+    padding-left: 3px;
+}
+
+#songUpload{
+    position: absolute;
+    left: 1000px;
+}
+
+#songChooseSubmit{
+	position: absolute;
+    left: 185px;
+    top: 2px;
+    background-color: rgb(70, 5, 0);
+    color: white;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+}
+
